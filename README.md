@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="CARC.png" alt="Banner" />
+</div>
 # 🕯️ Carcosa Press
 
 A digital library and publishers platform for **weird fiction**, **cosmic horror**, and **Lovecraftian tales**. Carcosa Press offers a hand-curated archive of original and classic works from the darkest corners of literature — all wrapped in an eerie, vintage-styled interface.
