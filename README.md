@@ -8,7 +8,10 @@ A digital library and publishers platform for **weird fiction**, **cosmic horror
 
 
 ---
-
+<div>
+  <img align="right" width="40%"  src="./img/pngegg.png">
+</div>
+<p align="left">
 ## 🧰 Features
 
 - 📰 Paginated story listing (newest first)
@@ -16,7 +19,7 @@ A digital library and publishers platform for **weird fiction**, **cosmic horror
 - 🔒 Optional authentication (for admin)
 - 🎃 Dark Gothic UI inspired by [Thuum.org](https://www.thuum.org/)
 - Book library available for reading online.
-
+</p>
 
 <p float="left"> <img src="./img/sc1.png" alt="Homepage Screenshot" width="45%" /> <img src="./img/Screenshot from 2025-07-21 17-27-11.png" alt="Story Detail Screenshot" width="45%" /> </p>
 ## 📁 Project Structure
