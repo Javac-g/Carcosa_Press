@@ -5,7 +5,7 @@
 
 A digital library and publishers platform for **weird fiction**, **cosmic horror**, and **Lovecraftian tales**. Carcosa Press offers a hand-curated archive of original and classic works from the darkest corners of literature — all wrapped in an eerie, vintage-styled interface.
 
-![Carcosa Press Banner](./public/carcosa-banner.png)
+
 
 ---
 
@@ -15,12 +15,9 @@ A digital library and publishers platform for **weird fiction**, **cosmic horror
 - ✍️ Admin panel for adding/editing posts
 - 🔒 Optional authentication (for admin)
 - 🎃 Dark Gothic UI inspired by [Thuum.org](https://www.thuum.org/)
-- 💳 Symbolic one-time subscription tiers via Stripe:
-  - `$5` — *Seeker of the Unseen*
-  - `$10` — *Cultist of the Yellow Sign*
-  - `$100` — *“Ohh... I hear the piping. My hands won't stop!”*
+- Book library available for reading online.
 
----
+
 <p float="left"> <img src="./img/sc1.png" alt="Homepage Screenshot" width="45%" /> <img src="./img/Screenshot from 2025-07-21 17-27-11.png" alt="Story Detail Screenshot" width="45%" /> </p>
 ## 📁 Project Structure
 
