@@ -21,7 +21,7 @@ A digital library and publishers platform for **weird fiction**, **cosmic horror
   - `$100` — *“Ohh... I hear the piping. My hands won't stop!”*
 
 ---
-
+<p float="left"> <img src="./img/sc1.png" alt="Homepage Screenshot" width="45%" /> <img src="./img/Screenshot from 2025-07-21 17-27-11.png" alt="Story Detail Screenshot" width="45%" /> </p>
 ## 📁 Project Structure
 
 ```
